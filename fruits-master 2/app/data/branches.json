@@ -1,0 +1,104 @@
+{
+  "branches": [
+        [
+      {
+        "title": null,
+        "collection": "fruits",
+        "leaves": [          
+          { "title": "Interrupting / Defensive", "category": "anger" },
+          { "title": "Enabling / Appeasing", "category": "fear" },
+          { "title": "Deceiving / Lying", "category": "foolishness" },
+          { "title": "Hiding / Escaping", "category": "despair" }
+        ]
+      },
+      {
+        "title": null,
+        "collection": "fruits",
+        "leaves": [
+          { "title": "People-pleasing", "category": "fear" },
+          { "title": "Impatient / Irritable", "category": "anger" },
+          { "title": "Joking / Distracting", "category": "foolishness" },
+          { "title": "Complaining / Grumbling", "category": "despair" }          
+        ]
+      },
+      {
+        "title": null,
+        "collection": "fruits",
+        "leaves": [
+          { "title": "Sarcastic / Harsh", "category": "anger" },
+          { "title": "Insensitive / Immature", "category": "foolishness" },
+          { "title": "Critical / Judgmental", "category": "anger" },
+          { "title": "Self-conscious / Shy", "category": "despair" }
+        ]
+      },
+      {
+        "title": null,
+        "collection": "fruits",
+        "leaves": [
+          { "title": "Lonely / Dependent", "category": "despair" },
+          { "title": "Attention-seeking / Emotional", "category": "foolishness" },
+          { "title": "Controlling / Avoiding", "category": "fear" },
+          { "title": "Second-guessing", "category": "fear" }
+        ]
+      }
+    ],
+    [
+      {
+        "title": null,
+        "collection": "trunks",
+        "leaves": [
+          { "title": "I don’t need people", "category": "anger" },
+          { "title": "When am I ever going to get a break?", "category": "anger" },
+          { "title": "I will show you!", "category": "anger" },
+          { "title": "People are idiots", "category": "anger" },
+          { "title": "I’ve got to take care of myself", "category": "anger" },
+          { "title": "People are just too sensitive", "category": "anger" },
+          { "title": "You will regret you said that", "category": "anger" },
+          { "title": "You don’t know anything about me", "category": "anger" }
+        ]
+      },
+      {
+        "title": null,
+        "collection": "trunks",
+        "leaves": [
+          { "title": "It’s easy for others to be content, they don’t have my life", "category": "foolishness" },
+          { "title": "People constantly judge me", "category": "foolishness" },
+          { "title": "I can’t help it, I was made this way", "category": "foolishness" },
+          { "title": "Rules were made to be broken", "category": "foolishness" },
+          { "title": "People don’t need to know the truth", "category": "foolishness" },
+          { "title": "I deserve more", "category": "foolishness" },
+          { "title": "Why are people always against me?", "category": "foolishness" },
+          { "title": "Lighten up!", "category": "foolishness" }
+        ]
+      },
+      {
+        "title": null,
+        "collection": "trunks",
+        "leaves": [
+          { "title": "What I’ve done is unforgiveable", "category": "despair" },
+          { "title": "I can’t live like this anymore", "category": "despair" },
+          { "title": "There’s nothing worth living for anymore", "category": "despair" },
+          { "title": "God has forgotten about me", "category": "despair" },
+          { "title": "I’m destined for nothing", "category": "despair" },
+          { "title": "I will be discounted the rest of my life", "category": "despair" },
+          { "title": "Good things don’t happen for me", "category": "despair" },
+          { "title": "I have nothing to offer others", "category": "despair" }
+        ]
+      },
+      {
+        "title": null,
+        "collection": "trunks",
+        "leaves": [
+          { "title": "No one needs to know about my past", "category": "fear" },
+          { "title": "What if something terrible happens and I don’t recover?", "category": "fear" },
+          { "title": "I can’t risk the pain", "category": "fear" },
+          { "title": "I will never be seen as the weak link", "category": "fear" },
+          { "title": "What are they really thinking about me?", "category": "fear" },
+          { "title": "What if I’m wrong?", "category": "fear" },
+          { "title": "What if I’m never accepted as I am?", "category": "fear" },
+          { "title": "I’m not good enough the way I am", "category": "fear" }
+        ]
+      }
+    ]
+  ]
+}

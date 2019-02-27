@@ -1,0 +1,39 @@
+body {
+  background-color: $body-bg;
+  font-family: $font-family-sans;
+  font-size: $font-size-base;
+}
+
+#root {
+  display: flex;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.container {
+  width: 90%;
+  max-width: 1350px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.grid {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  &--column {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}
+
+::selection {
+  background: $green-base;
+  color: $white;
+}
+
+::-moz-selection {
+  background: $green-base;
+  color: $white;
+}

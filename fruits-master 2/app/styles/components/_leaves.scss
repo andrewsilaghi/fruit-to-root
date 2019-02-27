@@ -1,0 +1,71 @@
+.leaves {
+  width: 450px;
+
+  &--large {
+    width: 600px;
+  }
+
+  h2 {
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: $font-size-medium;
+    margin-bottom: 10px;
+    color: $gray;
+  }
+
+  svg {
+    fill: $white;
+    margin-right: 7px;
+  }
+
+  .grid {
+    flex-wrap: wrap;
+    position: relative;
+    align-items: flex-start;
+  }
+
+  .branch {
+    width: 50%;
+
+    &--fruit:nth-of-type(-n + 2) {
+      margin: 0 0 0px;
+    }
+  }
+
+  .back {
+    color: $white;
+    padding: 11px 20px;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: $font-size-medium;
+    font-family: $font-family-sans;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    background: $green-base;
+  }
+
+  .leaf {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+    padding: 5px 15px 5px 10px;
+    border-radius: 25px;
+    background-color: $green-base;
+    transition: 0.2s linear background-color;
+    cursor: pointer;
+    color: $white;
+
+    &--active {
+      background-color: $green-darker;
+    }
+
+    &--disabled {
+      pointer-events: none;
+      background-color: $gray;
+    }
+
+    &:hover {
+      background-color: $green-darker;
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "motives": {
+    "anger": {
+      "title": "anger",
+      "description": "Motive description here..",
+      "url": "BSC_HomeworkANGER.pdf"
+    },
+    "foolishness": {
+      "title": "foolishness",
+      "description": "Motive description here..",
+      "url": "BSC_HomeworkFOOLISHNESS.pdf"
+    },
+    "despair": {
+      "title": "despair",
+      "description": "Motive description here..",
+      "url": "BSC_HomeworkDESPAIR.pdf"
+    },
+    "fear": {
+      "title": "fear",
+      "description": "Motive description here..",
+      "url": "BSC_HomeworkFEAR.pdf"
+    }
+  }
+}

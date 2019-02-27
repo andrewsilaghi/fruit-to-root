@@ -1,0 +1,31 @@
+//== Colors
+//
+//## Brown and brand colors for use across page.
+$white: #ffffff;
+$green-base: #38B76E;
+$green-darker: #21663D;
+$gray: #c0c0c0;
+
+$body-bg: #ffffff !default;
+
+//== Typography
+//
+//## Font, line-height, and color for body text, headings, and more.
+@font-face {
+    font-family: Cheddar Gothic Sans;
+    src: url("CheddarGothic-Sans.otf") format("opentype");
+}
+
+$font-family-sans: "Gibson", Helvetica, Arial, sans-serif !default;
+$font-family-sans-secondary: "Cheddar Gothic Sans", Helvetica, Arial, sans-serif !default;
+
+$font-size-base: 14px !default;
+$font-size-medium: 16px !default;
+$font-size-large: 24px !default;
+$font-size-extra-large: 48px !default;
+
+
+//== Transitions
+//
+//## Transitions.
+$transition: 200ms;
